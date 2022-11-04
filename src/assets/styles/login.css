@@ -1,0 +1,36 @@
+.fullContent{
+    margin: 10px;
+    
+}
+
+.venta{
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 30px;
+    margin-bottom: 100px;
+    margin-right: 20px;
+    font-size: 30px;
+
+}
+
+.consulta{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+    margin-bottom: 100px;
+    margin-right: 10px;
+    font-size: 30px;
+
+}
+
+.adminstra{
+    display: flex;
+    justify-content: flex-start;
+    margin-right: 10px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    font-size: 30px;
+}
+
+
